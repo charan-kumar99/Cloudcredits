@@ -1,0 +1,4 @@
+Dataset: Iris Dataset
+Source: sklearn.datasets.load_iris()
+Features: Sepal length, Sepal width, Petal length, Petal width
+Classes: Setosa, Versicolor, Virginica
